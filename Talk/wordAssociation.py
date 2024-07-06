@@ -1,0 +1,1 @@
+words = ["chicken", "on fire", "mutton","Monkey", 'tooth' ,"faT","Eye","you","stink","Cat", "Door", "clock", "mouse", "castle", "nanny", "plum", "cherry","camera","squishy","green","hard", "soft","stinky","bus"]
